@@ -27,9 +27,9 @@ Os autores concluem que o aprendizado profundo é uma ferramenta poderosa, mas t
    ### Cite 3 aplicações de algoritmos de Deep Learning. Uma delas tem que usar uma solução com CNN e uma delas tem que usar uma solução de RNNs. Explique a aplicação e os resultados obtidos. Não deixe de citar a fonte utilizada, sendo preferencialmente artigos.
 
    
-Claro. Aqui estão três aplicações de algoritmos de Deep Learning, uma com CNN e outra com RNNs:
 
-**1. **Reconhecimento facial com CNNs
+
+1. Reconhecimento facial com CNNs
 
 O reconhecimento facial é uma técnica que permite identificar pessoas a partir de suas características faciais. Ele é usado em uma ampla gama de aplicações, como segurança, biometria e marketing.
 
@@ -43,7 +43,7 @@ O reconhecimento facial com CNNs é uma técnica muito precisa e tem sido usada 
 
 Fonte: Deep Learning for Facial Recognition: https://arxiv.org/abs/1703.08093
 
-**2. **Reconhecimento de voz com RNNs
+2. Reconhecimento de voz com RNNs
 
 O reconhecimento de voz é uma técnica que permite identificar palavras a partir da voz humana. Ele é usado em uma ampla gama de aplicações, como assistentes virtuais, reconhecimento de fala e tradução automática.
 
@@ -57,7 +57,7 @@ O reconhecimento de voz com RNNs é uma técnica muito precisa e tem sido usada 
 
 Fonte: Deep Learning for Speech Recognition: https://arxiv.org/abs/1706.03762
 
-**3. **Geração de texto com LSTMs
+3. Geração de texto com LSTMs
 
 A geração de texto é uma técnica que permite criar texto novo e original. Ela é usada em uma ampla gama de aplicações, como produção de conteúdo, tradução automática e escrita criativa.
 
