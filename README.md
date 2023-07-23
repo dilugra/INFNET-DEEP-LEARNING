@@ -70,3 +70,8 @@ Depois que a LSTM é treinada, ela pode ser usada para gerar texto novo. A LSTM 
 A geração de texto com LSTMs é uma técnica muito precisa e tem sido usada com sucesso em uma ampla gama de aplicações.
 
 Fonte: Generating Text with LSTMs: https://arxiv.org/abs/1706.03762
+
+
+   ### CONCLUSÃO DO MODELO DE IMAGENS.
+
+o Modelo conseguiu classificar bem os dados, porém não somente pela espécie do animal, mas também pela forma que ele esta na foto, o último cluster mostra animais em posições de perfil, não especificando em um animal em si  e sim em como ele esta disposto na tela.
